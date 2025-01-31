@@ -1,0 +1,6 @@
+{{- range .Page.Resources.Match "*.md" -}}
+<details>
+  <summary>{{ .Title}}</summary>
+  {{ .Content }}
+</details>
+{{- end -}}
