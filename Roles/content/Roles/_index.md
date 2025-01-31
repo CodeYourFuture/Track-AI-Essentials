@@ -3,6 +3,7 @@ title="Roles"
 description="Choose one role to start at random"
 emoji="🎩"
 menu=["syllabus"]
+weight=1
 layout="prep"
 [[blocks]]
 name="Recruiter"
