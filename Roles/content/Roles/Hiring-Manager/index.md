@@ -2,7 +2,7 @@
 title="Hiring Manager"
 description="Take on the role of an employer and understand this perspective"
 emoji="🤹🏾"
-time=360
+time=120
 
 +++
 

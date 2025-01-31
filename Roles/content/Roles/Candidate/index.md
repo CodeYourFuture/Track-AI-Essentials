@@ -2,7 +2,7 @@
 title="Candidate"
 description="Take on the role of a candidate for a job"
 emoji="👰🏾"
-time=360
+time=180
 
 +++
 

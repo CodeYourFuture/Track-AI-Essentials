@@ -2,7 +2,7 @@
 title="Recruiter"
 description="Take on the role of a recruiter and understand this perspective"
 emoji="🕵🏿"
-time=360
+time=240
 
 +++
 

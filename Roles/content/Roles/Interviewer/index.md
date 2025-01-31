@@ -2,7 +2,7 @@
 title="Interviewer"
 description="Take on the role of an potential colleague and understand this perspective"
 emoji="🧑🏽‍⚖️"
-time=360
+time=240
 
 +++
 
