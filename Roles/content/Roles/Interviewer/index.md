@@ -115,3 +115,7 @@ After each interview, consider:
 3. How will you handle borderline cases?
 4. What would make your interviews more efficient, fair, or reliable?
 5. If you used AI, did it help?
+
+## Submitting Your Work
+
+There's no submission step. Your work is complete when you have hired a candidate. You can reflect on your experience in your notebook.

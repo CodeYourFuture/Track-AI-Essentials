@@ -1,6 +1,6 @@
 +++
 title="Roles"
-description="Choose one role to start at random: candidate, recruiter, hiring manager, or interviewer."
+description="Choose one role to start: candidate, recruiter, hiring manager, or interviewer."
 emoji="🎩"
 menu=["syllabus"]
 weight=1

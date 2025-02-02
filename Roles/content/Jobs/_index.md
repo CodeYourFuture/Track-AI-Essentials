@@ -2,10 +2,9 @@
 title="Jobs"
 description="These are AI generated fake jobs"
 emoji="🪧"
-layout="prep"
+layout="block-viewer"
 menu=["syllabus"]
 weight=2
-[[blocks]]
-name="MoneyWise Solutions Ltd"
-src="Jobs/jd-1/"
 +++
+
+This is a list of AI generated fake jobs. Whether you're acting as a candidate, a recruiter, a hiring manager, or an interviewer, you'll need to evaluate these jobs.

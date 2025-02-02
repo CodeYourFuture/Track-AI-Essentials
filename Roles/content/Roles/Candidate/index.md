@@ -66,3 +66,7 @@ After your interview, consider and write down in your notebook:
 2. Could you have prepared better?
 3. What will you do differently next time?
 4. If you used AI to prepare, did it help?
+
+## 📥 Submitting Your Work
+
+Your work is complete when you have submitted your application and completed your interview. You can reflect on your experience in your notebook.
