@@ -88,7 +88,7 @@ Before you start, review just 5 candidates and do the following evaluations:
 3. Test your decision: can you spot any red flags or missing information that affected your choices? Could you add this to your checklist?
    {{</note>}}
 
-{{<note type="activity" title="2. Screening">}}
+{{<note type="activity" title="3. Screening">}}
 
 Use your checklist system to create a shortlist
 
