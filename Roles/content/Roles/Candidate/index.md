@@ -39,7 +39,7 @@ Review a provided job description and write your CV and cover letter in order to
 
 {{<note type="activity" title="2. Submitting">}}
 
-1. Fork this repo to your own GitHub
+1. Fork [this repo](https://github.com/CodeYourFuture/Track-AI-Essentials) to your own GitHub
 1. Make a new branch from main called applicant/fake-name (e.g. applicant/john-smith)
 1. Duplicate the folder Candidate/Template-Candidate.
 1. Rename Template-Candidate to your _fake_ name. If you can't think of anything use John Smith.

@@ -6,7 +6,7 @@ time=240
 
 +++
 
-In this role, you're going to act as an interviewer. In your team, someone has just left for a new job. You really need a new team member because you are all delivering a huge project. It's really stressful! But your team had a bad experience last year with a colleague who wouldn't work with others, so you _also_ want to make sure this person will not upset your friendly , productive working environment. It's a challenge. You know you can't find this out for sure in a twenty minute conversation, but that's almost _all_ you have to go on. How will you evaluate interviewees quickly, efficiently and fairly, whilst:
+In this role, you're going to act as an interviewer. In your team, someone has just left for a new job. You really need a new team member because you are all delivering a huge project. It's really stressful! But your team had a bad experience last year with a colleague who wouldn't work with others, so you _also_ want to make sure this person will not upset your friendly, productive working environment. It's a challenge. You know you can't find this out for sure in a twenty minute conversation, but that's almost _all_ you have to go on. How will you evaluate interviewees quickly, efficiently and fairly, whilst:
 
 1. Finding someone who can do the work you need
 2. Finding someone who can work with the people on your team

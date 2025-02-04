@@ -89,7 +89,7 @@ Before you start, review just 5 candidates and do the following evaluations:
 3. Test your decision: can you spot any red flags or missing information that affected your choices? Could you add this to your checklist?
    {{</note>}}
 
-{{<note type="activity" title="2. Screening">}}
+{{<note type="activity" title="3. Screening">}}
 
 Use your checklist system to create a shortlist
 
@@ -108,5 +108,3 @@ After each screening session, consider:
 3. How did you handle borderline cases?
 4. What would make your screening more efficient?
 5. If you used AI, did it help?
-
-## 📥 Submitting Your Work
