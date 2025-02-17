@@ -8,11 +8,7 @@ tagline="Job Seeker | Building Digital Skills"
 keywords=["Digital Skills", "Data Entry", "Clear Communication"] 
 location=["Newcastle, UK"] 
 connections=37 
-applied=["job-1", "job-5"] 
-[build]    
-render='never'   
-list='local'    
-publishResources=false  
+applied=["job-1", "job-5"]  
 +++
 
 ## About

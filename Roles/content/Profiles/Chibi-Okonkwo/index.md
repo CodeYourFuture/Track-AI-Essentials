@@ -1,5 +1,5 @@
 +++
-title="Oluwaseun Afolabi"
+title="Chibi Okonkwo"
 time=0
 emoji="👤"
 hide_from_overview=true
@@ -7,7 +7,7 @@ hide_from_overview=true
 tagline="Junior Software Engineer"
 keywords=["Python", "Linux", "Cloud Infrastructure", "System Administration"]
 location=["London", "UK"]
-connections=85
+connections=851
 applied=["job-15", "job-22"]
  
 +++
