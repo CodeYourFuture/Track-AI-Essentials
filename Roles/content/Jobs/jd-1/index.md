@@ -7,7 +7,7 @@ hide_from_overview=true
 +++
 
 **Company:** TechSupport Pro, Manchester  
-**Salary:** £26,000, pro rata
+**Salary:** £28,000, pro rata
 **Contract:** Permanent, Part-time
 
 ### About Us:

@@ -9,11 +9,7 @@ tagline="Trainee Software Engineer | Former Civil Engineer"
 keywords=["Software Engineering", "Civil Engineering", "Project Management"] 
 location=["Newcastle", "UK"] 
 connections=98 
-applied=["job-2", "job-4"] 
-[build]    
-render='never'   
-list='local'    
-publishResources=false  
+applied=["jd-21", "jd-15", "jd-9"] 
 +++
 
 ## About
@@ -25,9 +21,9 @@ Civil engineer with 8 years of experience in infrastructure projects across Syri
 ### Trainee Software Engineer
 
 CodeYourFuture
-_Sep 2023 - Present · 4 mos_
+_Sep 2024 - Present · 6 mos_
 
-Selected for comprehensive software engineering program. Applying engineering principles to software development while building technical foundations.
+Selected for comprehensive software engineering programme. Applying engineering principles to software development while building technical foundations.
 
 - **Software Engineering, Programming Fundamentals, Engineering Principles**
 

@@ -7,7 +7,7 @@ hide_from_overview=true
 +++
 
 **Company:** CloudScale UK, Leeds  
-**Salary:** £27,000 - £33,000  
+**Salary:** £27,000 - £35,000 DOE
 **Contract:** Permanent, Full-time
 
 ### About Us:

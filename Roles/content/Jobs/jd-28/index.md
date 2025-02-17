@@ -7,7 +7,7 @@ hide_from_overview=true
 +++
 
 **Company:** DataClean Solutions, Manchester
-**Salary:** £26,000 - £30,000 DOE
+**Salary:** £28,000 - £33,000 DOE
 **Contract:** Fixed-term, Full-time
 
 ### About Us:
