@@ -7,7 +7,7 @@ hide_from_overview=true
 +++
 
 **Company:** DevOps Dynamics, Glasgow
-**Salary:** £28,000 - £35,000
+**Salary:** £29,500 - £35,000
 **Contract:** Permanent, Full-time
 
 ### About Us:
