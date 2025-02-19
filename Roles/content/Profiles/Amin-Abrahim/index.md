@@ -4,7 +4,7 @@ time=0
 emoji="👤"  
 hide_from_overview=true  
 [profile] 
-tagline="Trainee Software Engineer | Former Journalist" 
+tagline="Trainee Software Engineer | Journalist" 
 keywords=["Software Engineering", "Journalism", "Communication"] 
 location=["London", "UK"] 
 connections=82 

@@ -1,55 +1,84 @@
 +++
-title="BusinessTech Solutions"
-description="Junior Functional Consultant"
-time=3
-emoji="🤝"
-hide_from_overview=true
+title="CV Samira El-Khoury"
+time=0
+emoji="📝"
+[build]
+render='never'
 +++
 
-**Company:** BusinessTech Solutions, Reading
-**Salary:** £28,000 - £35,000
-**Contract:** Permanent, Full-time
+## Samira El-Khoury
 
-### About Us:
++44 7700 000000
+Email: samira.elkhoury@email.com
+Location: Reading/London, UK
+LinkedIn: linkedin.com/in/samiraelkhoury
 
-BusinessTech Solutions implements and customizes enterprise software solutions for mid-sized businesses. We're looking for eager graduates and career changers to join our consulting team. You'll receive comprehensive training in our core products and consulting skills, working alongside experienced consultants to deliver solutions to our clients.
+## Personal Statement
 
-Our consultants typically progress to senior roles within 2-3 years, and we pride ourselves on our structured development program. We work with a variety of industries, giving you broad exposure to different business processes and challenges.
+Technology professional with proven business experience in developing and implementing e-commerce solutions. Founded and operated successful online marketplace platform. Strong background in gathering business requirements and translating them into technical solutions. Currently enhancing software engineering skills through CodeYourFuture programme.
 
-### Key Responsibilities:
+## Work History
 
-- Learn our core software products and implementation methodology
-- Gather and document business requirements from clients
-- Configure software solutions to meet client needs
-- Conduct user training sessions
-- Support system testing and validation
-- Create user documentation and training materials
-- Assist with client workshops and presentations
-- Help with data migration tasks
-- Provide post-go-live support
+### Trainee Software Engineer
 
-### Requirements:
+_CodeYourFuture_ (September 2023 - Present)
 
-- Strong interest in business processes and technology
-- Excellent communication and interpersonal skills
-- Good attention to detail
-- Basic Excel skills
-- Willingness to travel occasionally (20%)
+- Developed business applications using React and Node.js
+- Created documentation for system implementations
+- Conducted user training sessions for technical solutions
+- Managed requirements gathering and analysis
+- Implemented quality assurance procedures
 
-### Nice to Have:
+### Founder & Tech Lead
 
-- Business or IT degree
-- Experience with CRM or ERP systems
-- Customer service experience
-- Basic SQL knowledge
-- Additional languages
+_Artisan Connect_ (June 2020 - August 2023)
 
-### Benefits:
+- Gathered requirements from 200+ business users
+- Implemented e-commerce platform serving 1000+ monthly transactions
+- Managed implementation team of 3 developers
+- Created technical documentation and training materials
+- Provided ongoing system support and maintenance
 
-- 25 days holiday + bank holidays
-- Structured training program
-- Professional certification support
-- Flexible working options
-- Regular social events
-- Mentoring program
-- Pension scheme (8% match)
+## Technical Projects
+
+### Community Resource Hub
+
+_Open Source Project_ (2023 - Present)
+
+- Gathered requirements from community organizations
+- Implemented solution serving 300+ monthly users
+- Created user documentation and training materials
+- Conducted regular user feedback sessions
+
+### Marketplace Analytics Dashboard
+
+_Business Intelligence Tool_ (2022 - Present)
+
+- Analyzed business requirements for 50+ small businesses
+- Implemented data visualization solutions
+- Created technical documentation and user guides
+
+## Education
+
+**CodeYourFuture, London**
+
+- Software Engineering Programme (2023-2024)
+- Focus: Business Systems Implementation
+
+## Skills
+
+- Business Analysis
+- Requirements Gathering
+- System Implementation
+- User Training
+- Technical Documentation
+- React, Node.js
+- MongoDB, PostgreSQL
+- English (Professional)
+- Arabic (Native)
+- French (Professional)
+
+## Certifications
+
+- Agile Business Analysis (In Progress)
+- E-commerce Implementation Specialist

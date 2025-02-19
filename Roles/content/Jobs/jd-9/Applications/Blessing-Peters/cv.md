@@ -1,79 +1,79 @@
 +++
-title="CV Blessing Okonjo Peters" 
-time=0 
-emoji="✍🏿" 
+title="CV Bereket Haile"
+time=0
+emoji="✍️"
+[build]
+render='never'
 +++
 
-**Blessing Okonjo Peters**
-+44 7700 000000
-Email: blessing.peters@email.com
-LinkedIn: https://www.linkedin.com/in/blessing-okonjo-peters
-Location: London, UK, Hybrid/Remote
+# CV
 
-**Personal Statement**
-Highly motivated Computer Science graduate with a strong academic background and emerging professional expertise in software testing and quality assurance. Completed a rigorous Master's degree with First Class Honours and currently training with CodeYourFuture to bridge academic knowledge with industry practices. Seeking to leverage technical skills, analytical mindset, and passion for technology in a Junior Functional Consultant role at BusinessTech Solutions.
+**Bereket Haile**  
++44 7700 300000  
+Email: bereket.haile@email.com  
+LinkedIn: linkedin.com/in/berekethaile  
+Location: Edinburgh, UK
 
-**Work History**
-**Trainee Quality Assurance Engineer** October 2023 – Present
-_CodeYourFuture, London, UK_
+## Personal Statement
 
-- Developing comprehensive automated test suites using Python, demonstrating technical proficiency and systematic approach to software quality
-- Learning and applying industry-standard testing methodologies in collaborative, agile team environments
-- Building practical QA expertise through hands-on training and team testing projects
-- Gaining experience in CI/CD practices and test automation frameworks
+Security-focused professional with strong experience in compliance monitoring and incident response procedures. Background in medical supply chain security combined with current technical training in system monitoring and threat detection. Proven record of maintaining security protocols and documenting security incidents.
 
-**Technical Skills Development** July 2023 – September 2023
-_CodeYourFuture, London, UK_
+## Work History
 
-- Completed intensive QA fundamentals course, focusing on test planning and documentation
-- Participated in agile team practices, enhancing collaborative and communication skills
-- Developed robust test documentation skills crucial for enterprise software implementation
+### Trainee Software Engineer
 
-**Academic Projects**
-**Automated Test Framework** (Master's Project)
+September 2023 - Present  
+_CodeYourFuture_
 
-- Developed comprehensive test automation framework using Python
-- Implemented continuous integration pipeline, showcasing technical problem-solving skills
-- Created detailed test documentation demonstrating attention to detail and communication abilities
+- Monitor system security alerts across development environments
+- Document and track potential security incidents
+- Implement security testing protocols for new system deployments
+- Create security awareness materials for development team
+- Maintain incident response documentation
 
-**Education**
-**University of Leicester** 2021 – 2022
+### Quality Control Inspector
 
-- MSc Computer Science
-- Dissertation: "Automated Testing Strategies in Distributed Systems"
-- Focus on advanced software testing methodologies and programming concepts
+March 2021 - August 2023  
+_NHS Medical Supplies_
 
-**University of Nigeria, Nsukka** 2016 – 2020
+- Monitored security protocols for controlled substances
+- Investigated and documented security incidents affecting medical supplies
+- Implemented new security tracking system for high-risk items
+- Conducted security assessments of storage and transport procedures
+- Trained staff on security protocols and incident reporting
 
-- BSc Computer Science, First Class Honours
-- Strong foundation in core programming principles, software development lifecycle, and database management
+## Education
 
-**Skills**
+### CodeYourFuture
 
-- Software Testing
-- Python
-- Test Automation
-- CI/CD Practices
-- Excel
-- SQL (Basic)
-- Agile Methodologies
-- Test Documentation
-- CRM/ERP Systems (Learning)
+2023 - Present
 
-**Certifications**
+- Security Operations and Monitoring
+- System Security Fundamentals
 
-- ISTQB Foundation Level (In Progress)
-- AWS Cloud Practitioner
-- Agile Testing Practices
+### Edinburgh College
 
-**Languages**
+2019 - 2021
 
-- English (Professional Working)
-- Igbo (Native Speaker)
+- HNC Quality Management Systems
+- Focus: Security and Compliance
 
-**Additional Achievements**
+## Skills
 
-- Member of British Computer Society
-- Active participant in QA and technology meetups
-- Contributing to open-source testing projects
-- Demonstrated commitment to continuous learning and professional development
+- Security Monitoring: Alert analysis, Incident tracking
+- Compliance: NHS security standards, Controlled substances protocols
+- Tools: Basic SIEM, Security documentation systems
+- Analysis: Risk assessment, Threat identification
+- Languages: English (Professional), Amharic (Native), Tigrinya (Professional)
+
+## Certifications
+
+- CompTIA Security+ (In Progress)
+- NHS Security Compliance
+- Incident Response Fundamentals
+
+## Key Security Projects
+
+- Developed controlled substance monitoring system for NHS department
+- Created security incident response procedures reducing resolution time by 40%
+- Implemented new threat detection protocols identifying 25+ potential risks
