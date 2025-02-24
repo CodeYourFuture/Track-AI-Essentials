@@ -6,8 +6,8 @@ emoji="🔍"
 hide_from_overview=true
 +++
 
-**Company:** QualityFirst Software, Birmingham
-**Salary:** £27,500
+**Company:** QualityFirst Software, Birmingham, London, Liverpool
+**Salary:** £29,500
 **Contract:** Permanent, Full-time
 
 ### About Us:
@@ -33,21 +33,21 @@ Our testing team is collaborative and supportive, focusing on both manual and au
 - Keen eye for detail
 - Logical thinking ability
 - Good written communication
-- Basic computer skills
+- Sound computer skills
 - Interest in how software works
 - Ability to follow procedures carefully
 
 ### Nice to Have:
 
-- IT-related degree or certification
+- IT-related degree or certification eg ISTQB
 - Basic understanding of HTML/CSS
 - Experience with bug tracking tools
-- Knowledge of agile methodologies
+- Knowledge of Agile methodologies/ Scrum
 - Any programming experience
 
 ### Benefits:
 
-- 24 days holiday + bank holidays
+- 26 days holiday + bank holidays
 - Hybrid working after training
 - ISTQB certification support
 - Free breakfast

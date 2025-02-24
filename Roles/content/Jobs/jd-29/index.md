@@ -7,7 +7,7 @@ hide_from_overview=true
 +++
 
 **Company:** TechOps Ltd, Leeds
-**Salary:** £28,000 - £35,000
+**Salary:** £29,500 - £32,000
 **Contract:** Permanent, Full-time
 
 ### About Us:

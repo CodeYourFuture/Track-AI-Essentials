@@ -7,7 +7,7 @@ hide_from_overview=true
 +++
 
 **Company:** Corporate Systems Ltd, Manchester
-**Salary:** £25,000 - £30,000
+**Salary:** £33,500 - £38,000 DOE
 **Contract:** Permanent, Full-time
 
 ### About Us:
@@ -46,11 +46,9 @@ Corporate Systems Ltd provides IT support to medium-sized law firms. Our desktop
 
 ### Benefits:
 
-- 24 days holiday + bank holidays
-- Healthcare plan
-- Mobile phone
+- 28 days holiday + bank holidays
 - Company van for site visits
 - Certification support
-- Pension scheme
-- Free parking
+- 8% Pension scheme
+- Central Manchester parking allowance
 - On-call allowance
