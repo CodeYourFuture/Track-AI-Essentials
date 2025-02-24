@@ -1,58 +1,80 @@
 +++
-title="DigitalCraft Agency"
-description="Junior UI Designer"
-time=2
-emoji="🎨"
-hide_from_overview=true
+title="CV Iryna Kovalenko"
+time=0
+emoji="📝"
+[build]
+render='never'
 +++
 
-**Company:** DigitalCraft Agency, Sheffield
-**Salary:** £24,000 - £28,000
-**Contract:** Permanent, Full-time
+## Iryna Kovalenko
 
-### About Us:
++44 7700 000000
+Email: iryna.kovalenko@email.com
+Location: Sheffield, UK
+LinkedIn: linkedin.com/in/irynakovalenko
 
-DigitalCraft is a growing digital agency specializing in website and app design for small and medium businesses. We're looking for a junior UI designer to join our creative team of 12 people. This is an ideal role for a recent graduate or someone with 1-2 years of experience who wants to develop their skills in a supportive environment.
+## Personal Statement
 
-We offer regular feedback sessions, design critiques, and opportunities to work on diverse projects. Our team is friendly and collaborative, and we encourage learning and experimentation.
+Established technology professional with strong visual and technical capabilities from network infrastructure management. Experienced in creating clear technical documentation and optimizing user interfaces for complex systems. Currently developing visual design skills through CodeYourFuture programme while applying established expertise in system visualization and user experience.
 
-### Key Responsibilities:
+## Work History
 
-- Create visually appealing designs for websites and apps
-- Work within existing brand guidelines
-- Develop UI component libraries
-- Create responsive layouts
-- Design marketing materials when needed
-- Participate in team design reviews
-- Learn from senior designers
-- Help maintain our design system
-- Assist with basic image editing and optimization
+### Trainee Software Engineer
 
-### Requirements:
+_CodeYourFuture_ (September 2023 - Present)
 
-- Design portfolio showing understanding of UI principles
-- Proficiency with Figma
-- Understanding of typography and color theory
-- Knowledge of responsive design basics
-- Good eye for detail
-- Eager to learn and take feedback
+- Design interface components for monitoring systems
+- Create visual dashboards using Grafana
+- Develop user-friendly documentation with clear diagrams
+- Participate in interface design reviews
+- Implement responsive layouts for technical applications
 
-### Nice to Have:
+### Network Administrator
 
-- Understanding of UX principles
-- Basic HTML/CSS knowledge
-- Experience with Adobe Creative Suite
-- Interest in animation
-- Photography skills
+_Kyivstar_ (March 2017 - February 2023)
 
-### Benefits:
+- Designed network topology visualizations for 200+ nodes
+- Created user interfaces for monitoring dashboards
+- Developed visual documentation standards
+- Improved system usability for technical teams
+- Reduced incident response time by 40% through clear visualizations
 
-- 24 days holiday + bank holidays
-- Hybrid working after probation
-- Training budget
-- Regular design workshops
-- Company MacBook
-- Creative office environment
-- Friday team lunches
-- Casual dress code
-- Cycle to work scheme
+### Technical Support Specialist
+
+_Local ISP_ (June 2014 - February 2017)
+
+- Designed user guides for technical procedures
+- Created visual troubleshooting documentation
+- Improved interface usability for support systems
+- Maintained technical documentation with diagrams
+
+## Education
+
+**CodeYourFuture, Sheffield**
+
+- Software Engineering Programme (2023-2024)
+- Focus: User Interface Design, Visual Documentation
+
+**Lviv Polytechnic National University**
+
+- Network Administration (2012-2014)
+
+## Skills
+
+- Visual Design
+- Interface Layout
+- Technical Documentation
+- User Experience
+- Information Architecture
+- Figma (Learning)
+- HTML/CSS (Basic)
+- English (Professional)
+- Ukrainian (Native)
+- Russian (Professional)
+- Polish (Basic)
+
+## Certifications
+
+- AWS Solutions Architect Associate
+- Cisco Certified Network Associate
+- CompTIA Network+
