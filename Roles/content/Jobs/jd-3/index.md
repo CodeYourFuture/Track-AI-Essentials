@@ -7,7 +7,7 @@ hide_from_overview=true
 +++
 
 **Company:** WebCraft Digital, Wolverhampton
-**Salary:** £28,000 - £32,000 DOE
+**Salary:** £29,000 - £32,000 DOE
 **Contract:** Permanent, Full-time
 
 ### About Us:

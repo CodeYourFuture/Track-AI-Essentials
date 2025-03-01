@@ -7,7 +7,7 @@ hide_from_overview=true
 +++
 
 **Company:** QualityFirst Software, Birmingham
-**Salary:** £23,000 - £27,000
+**Salary:** £27,500
 **Contract:** Permanent, Full-time
 
 ### About Us:

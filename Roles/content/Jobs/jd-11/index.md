@@ -7,7 +7,7 @@ hide_from_overview=true
 +++
 
 **Company:** TestMasters Ltd, Glasgow
-**Salary:** £32,000 - £40,000
+**Salary:** £44,000
 **Contract:** Maternity Cover, Full-time
 
 ### About Us:

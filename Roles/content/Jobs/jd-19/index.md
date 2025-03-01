@@ -7,7 +7,7 @@ hide_from_overview=true
 +++
 
 **Company:** DataMetrics Ltd, Sheffield
-**Salary:** £26,000 - £32,000
+**Salary:** From £30,000
 **Contract:** Permanent, Full-time
 
 ### About Us:
