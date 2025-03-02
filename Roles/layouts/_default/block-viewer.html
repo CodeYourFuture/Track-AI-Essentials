@@ -8,12 +8,19 @@
     {{ with .Content }}
     <section class="l-page__main c-block c-copy">{{ . }}</section>
     {{ end }} {{ $currentDir := .File.Dir }} {{ with .Site.GetPage $currentDir
-    }} {{ range .Pages }}
+    }} {{ range .Pages }} {{ $resources := .Resources }} {{ $applications :=
+    $resources.Match "applications/*/*.md" }}
     <section class="c-block c-block--local">
       <div class="c-block__body" tabindex="0">
         <header class="c-block__header">
           <h2 class="c-block__title e-heading__2" id="{{ .Title |urlize }}">
-            {{ .Title }}
+            {{ with .Params.emoji }}
+            <span class="c-emoji">{{ . }}</span>
+            {{ end }} {{ .Title }} {{if $applications}}
+            <a class="c-label" href="#{{.Title |urlize}}-applications"
+              >{{ len $applications}}</a
+            >
+            {{end}}
           </h2>
           {{ partial "time.html" . }}
         </header>
@@ -30,6 +37,29 @@
           <h4>{{ . }}</h4>
           {{ end }} {{ .Content }}
         </div>
+
+        <footer class="c-block__footer">
+          <!--Show Applications-->
+          {{ if $applications}}
+          <h4 id="{{.Title |urlize}}-applications">
+            📨 Review Applications to this Role
+          </h4>
+
+          {{ $applicants := slice }} {{ range $applications }} {{ $name := index
+          (split .Name "/") 1 }} {{ if not (in $applicants $name) }} {{
+          $applicants = $applicants | append $name }} {{ end }} {{ end }} {{
+          range $applicants }} {{ $applicant := . }}
+          <details>
+            <summary>{{ . }}</summary>
+            {{ range $resources }} {{ if in .Name (printf "applications/%s"
+            $applicant) }}
+            <h4>{{.Title}}</h4>
+            {{ .Content }}
+            <hr />
+            {{ end }} {{ end }}
+          </details>
+          {{ end }} {{ end }}
+        </footer>
       </div>
     </section>
     {{ end }} {{ end }}
