@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | English Teacher"
 keywords=["Software Engineering", "Education", "Communication"] 
 location=["Glasgow", "UK"] 
 connections=756 
-applied=["job-20", "job-4", "job-8", "job-12", "job-18"] 
-
 +++
 
 ## About

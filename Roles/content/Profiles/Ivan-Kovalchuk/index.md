@@ -8,7 +8,6 @@ tagline="Warehouse Operative | Emerging Technologist"
 keywords=["Logistics", "Inventory Management", "Process Optimization"] 
 location=["London, UK"] 
 connections=42 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

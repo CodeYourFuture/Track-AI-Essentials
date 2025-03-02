@@ -8,8 +8,6 @@ tagline="Software Engineer | Former Research Scientist"
 keywords=["Python", "Linux", "Docker", "CI/CD"]
 location=["Manchester", "UK"]
 connections=89
-applied=["job-12", "job-15", "job-21"]
- 
 +++
 
 ## About

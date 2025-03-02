@@ -8,7 +8,6 @@ tagline="Data Engineering Specialist | Analytics Innovator"
 keywords=["Data Engineering", "Big Data", "Cloud Computing", "ETL Processes"] 
 location=["Birmingham, UK"] 
 connections=89 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

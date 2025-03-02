@@ -8,7 +8,6 @@ tagline="Software Engineer | Test Engineer | Education Technology"
 keywords=["Software Engineering", "QA", "Testing", "User Experience"] 
 location=["Birmingham, UK"] 
 connections=134 
-applied=["job-1", "job-5"] 
 +++
 
 ## About

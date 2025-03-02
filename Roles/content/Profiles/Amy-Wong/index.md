@@ -8,9 +8,8 @@ tagline="Retail Systems Support | Customer Data Protection"
 keywords=["Database Management", "Customer Privacy", "Retail Systems"] 
 location=["Leeds, UK"] 
 connections=72 
-applied=["job-1", "job-6"] 
 [build]    
-render='never'   
+   
 list='local'    
 publishResources=false  
 +++

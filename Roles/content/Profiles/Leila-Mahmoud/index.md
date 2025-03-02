@@ -8,7 +8,6 @@ tagline="Job Seeker | Developing Digital Administration Skills"
 keywords=["Administrative Support", "Digital Skills", "Data Protection"] 
 location=["Birmingham, UK"] 
 connections=42 
-applied=["job-3", "job-6"] 
 +++
 
 ## About

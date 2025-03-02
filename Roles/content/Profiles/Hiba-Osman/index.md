@@ -8,9 +8,8 @@ tagline="Data Entry Specialist | Learning Python and SQL"
 keywords=["Data Entry", "Excel", "Basic Python", "SQL"] 
 location=["Birmingham, UK"] 
 connections=87 
-applied=["job-1", "job-4"] 
 [build]    
-render='never'   
+   
 list='local'    
 publishResources=false  
 +++

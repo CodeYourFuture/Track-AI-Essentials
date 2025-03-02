@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer"
 keywords=["Software Engineering", "Logistics", "Warehouse Operations"] 
 location=["Birmingham", "UK"] 
 connections=45 
-applied=["job-17", "job-3"] 
-
 +++
 
 ## About

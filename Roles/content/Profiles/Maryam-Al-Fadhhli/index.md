@@ -8,7 +8,6 @@ tagline="Program Manager | Community Builder"
 keywords=["Project Management", "Community Programs", "Data Ethics"] 
 location=["Leeds, UK"] 
 connections=198 
-applied=["job-3", "job-6"] 
 +++
 
 ## About

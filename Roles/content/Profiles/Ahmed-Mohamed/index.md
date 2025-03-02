@@ -9,7 +9,6 @@ tagline="Trainee Software Engineer | Former Civil Engineer"
 keywords=["Software Engineering", "Civil Engineering", "Project Management"] 
 location=["Newcastle", "UK"] 
 connections=98 
-applied=["jd-21", "jd-15", "jd-9"] 
 +++
 
 ## About

@@ -8,7 +8,6 @@ tagline="Former Chemical Engineer | Emerging Software Developer"
 keywords=["Chemical Engineering", "Research", "Analytical Thinking"] 
 location=["London, UK"] 
 connections=67 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

@@ -8,7 +8,6 @@ tagline="Professional Translator | Emerging Technologist"
 keywords=["Translation", "Multilingual Communication", "Language Technology"] 
 location=["Manchester, UK"] 
 connections=52 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

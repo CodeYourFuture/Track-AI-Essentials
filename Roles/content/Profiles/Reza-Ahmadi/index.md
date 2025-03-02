@@ -8,8 +8,6 @@ tagline="Software Engineer | Automotive Engineer"
 keywords=["Java", "Python", "Infrastructure", "Cloud Computing"]
 location=["Manchester", "UK"]
 connections=91
-applied=["job-16", "job-20"]
- 
 +++
 
 ## About

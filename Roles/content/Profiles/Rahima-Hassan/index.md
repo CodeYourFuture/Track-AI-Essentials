@@ -8,7 +8,6 @@ tagline="Trainee Software Engineer | Recent Graduate"
 keywords=["Python", "Linux", "System Administration"]
 location=["London", "UK"]
 connections=31
-applied=["job-33", "job-38"]
 +++
 
 ## About

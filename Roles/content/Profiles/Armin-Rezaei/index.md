@@ -8,7 +8,6 @@ tagline="Former Architect | Emerging Software Engineer"
 keywords=["Design", "Spatial Thinking", "Problem Solving"] 
 location=["Manchester, UK"] 
 connections=52 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

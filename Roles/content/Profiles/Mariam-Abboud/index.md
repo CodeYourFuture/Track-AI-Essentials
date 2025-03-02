@@ -8,8 +8,6 @@ tagline="Software Engineer | Former Medical Laboratory Technician"
 keywords=["Java", "Spring Boot", "PostgreSQL", "DevOps"]
 location=["Glasgow", "UK"]
 connections=94
-applied=["job-08", "job-22"]
- 
 +++
 
 ## About

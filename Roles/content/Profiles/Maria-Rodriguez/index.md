@@ -8,7 +8,6 @@ tagline="Former Homemaker | Community Support Specialist"
 keywords=["Home Management", "Community Support", "Organizational Skills"] 
 location=["Manchester, UK"] 
 connections=38 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

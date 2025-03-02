@@ -8,7 +8,6 @@ tagline="Refugee Entrepreneur | Emerging Technologist"
 keywords=["Entrepreneurship", "Resilience", "Community Support"] 
 location=["Birmingham, UK"] 
 connections=53 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

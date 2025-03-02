@@ -8,7 +8,6 @@ tagline="Former Medical Translator | Emerging Technologist"
 keywords=["Translation", "Healthcare Communication", "Problem Solving"] 
 location=["Birmingham, UK"] 
 connections=48 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

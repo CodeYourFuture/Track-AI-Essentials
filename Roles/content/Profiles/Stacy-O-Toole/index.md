@@ -8,7 +8,6 @@ tagline="Product Manager | UX Design Specialist"
 keywords=["Product Management", "UX Design", "Agile Methodologies", "User Research"] 
 location=["Leeds, UK"] 
 connections=156 
-applied=["job-12", "job-23"] 
 +++
 
 ## About

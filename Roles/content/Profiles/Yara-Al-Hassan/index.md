@@ -9,8 +9,6 @@ tagline="Trainee Software Engineer | Artist"
 keywords=["Software Engineering", "Visual Arts", "Creativity"] 
 location=["Bristol", "UK"] 
 connections=67 
-applied=["jd-10", "jd-2"] 
-
 +++
 
 ## About

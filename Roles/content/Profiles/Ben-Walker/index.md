@@ -8,7 +8,6 @@ tagline="Trainee IT Support Engineer | Career Starter"
 keywords=["IT Support", "Help Desk", "Technical Support"]
 location=["Birmingham", "UK"]
 connections=28
-applied=["job-34", "job-39"]
 +++
 
 ## About

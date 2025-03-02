@@ -8,9 +8,8 @@ tagline="Trainee Quality Assurance Engineer | Computer Science Graduate"
 keywords=["Software Testing", "Quality Assurance", "Python", "Test Automation"]
 location=["London", "UK"]
 connections=41
-applied=["job-36", "job-41"]
 [build]
-render='never'
+
 list='local'
 publishResources=false
 +++

@@ -8,8 +8,6 @@ tagline="Junior Software Engineer"
 keywords=["Python", "Linux Systems", "Cloud Infrastructure"]
 location=["Birmingham", "UK"]
 connections=73
-applied=["job-13", "job-18"]
- 
 +++
 
 ## About

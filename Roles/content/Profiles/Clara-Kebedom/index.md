@@ -8,7 +8,6 @@ tagline="Software Engineer | Quality Assurance | Test Automation"
 keywords=["Software Engineering", "QA", "Testing", "Accessibility"] 
 location=["Manchester, UK"] 
 connections=156 
-applied=["job-1", "job-3"]  
 +++
 
 ## About

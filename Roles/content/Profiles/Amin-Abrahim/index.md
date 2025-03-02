@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Journalist"
 keywords=["Software Engineering", "Journalism", "Communication"] 
 location=["London", "UK"] 
 connections=82 
-applied=["job-21", "job-14"] 
-
 +++
 
 ## About

@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Former Healthcare Worker"
 keywords=["Software Engineering", "Healthcare", "Patient Care"] 
 location=["Birmingham", "UK"] 
 connections=71 
-applied=["job-1", "job-5"] 
-
 +++
 
 ## About

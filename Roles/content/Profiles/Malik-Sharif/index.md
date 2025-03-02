@@ -8,9 +8,8 @@ tagline="Trainee Software Engineer | Self-Taught Web Designer"
 keywords=["Software Engineering", "Web Design", "E-commerce"] 
 location=["London, UK"] 
 connections=73 
-applied=["job-23", "job-24"] 
 [build]    
-render='never'   
+   
 list='local'    
 publishResources=false  
 +++

@@ -8,7 +8,6 @@ tagline="Cybersecurity Specialist | Network Defense Strategist"
 keywords=["Cybersecurity", "Network Security", "Penetration Testing", "Ethical Hacking"] 
 location=["Bristol, UK"] 
 connections=134 
-applied=["job-11", "job-17"] 
 +++
 
 ## About

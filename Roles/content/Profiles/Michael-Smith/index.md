@@ -8,7 +8,6 @@ tagline="Former Carpenter | Aspiring Technologist"
 keywords=["Woodworking", "Craftsmanship", "Problem Solving"] 
 location=["Leeds, UK"] 
 connections=42 
-applied=["job-2", "job-6"] 
 +++
 
 ## About

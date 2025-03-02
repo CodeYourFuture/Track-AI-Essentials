@@ -8,8 +8,6 @@ tagline="Junior Software Engineer | Former Military Communications Specialist"
 keywords=["Python", "Infrastructure", "Network Security", "Systems Engineering"]
 location=["Manchester", "UK"]
 connections=83
-applied=["job-19", "job-24"]
- 
 +++
 
 ## About

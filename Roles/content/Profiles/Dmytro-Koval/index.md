@@ -8,7 +8,6 @@ tagline="Customer Support Specialist | Emerging Technologist"
 keywords=["Customer Service", "Technical Support", "Communication"] 
 location=["London, UK"] 
 connections=45 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

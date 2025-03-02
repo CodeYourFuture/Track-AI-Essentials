@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Former Home Maker"
 keywords=["Software Engineering", "Organization", "Time Management"] 
 location=["Leicester", "UK"] 
 connections=45 
-applied=["job-2", "job-5"] 
-
 +++
 
 ## About

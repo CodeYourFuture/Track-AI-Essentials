@@ -8,7 +8,6 @@ tagline="Trainee QA Engineer | Forklift Operator"
 keywords=["Software Testing", "Manual Testing", "JIRA", "Quality Assurance"]
 location=["Manchester", "UK"]
 connections=47
-applied=["job-29", "job-34"]
 +++
 
 ## About

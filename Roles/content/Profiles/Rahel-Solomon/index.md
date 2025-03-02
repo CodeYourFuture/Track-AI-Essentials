@@ -8,9 +8,8 @@ tagline="Software Engineer | Infrastructure | Product Development"
 keywords=["Software Engineering", "DevOps", "Infrastructure", "AWS"] 
 location=["London, UK"] 
 connections=145 
-applied=["job-1", "job-4"] 
 [build]    
-render='never'   
+   
 list='local'    
 publishResources=false  
 +++

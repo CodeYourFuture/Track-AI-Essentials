@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Former Architect"
 keywords=["Software Engineering", "Architecture", "Design"] 
 location=["Glasgow", "UK"] 
 connections=92 
-applied=["job-3", "job-16"] 
-
 +++
 
 ## About

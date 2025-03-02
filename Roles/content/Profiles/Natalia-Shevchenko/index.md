@@ -8,9 +8,8 @@ tagline="Data Protection Support | Learning Programming Basics"
 keywords=["Data Protection", "Process Documentation", "Basic Programming"] 
 location=["Leeds, UK"] 
 connections=83 
-applied=["job-2", "job-4"] 
 [build]    
-render='never'   
+   
 list='local'    
 publishResources=false  
 +++

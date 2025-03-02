@@ -8,7 +8,6 @@ tagline="Former Logistics Coordinator | Emerging Technologist"
 keywords=["Logistics", "Supply Chain", "Process Optimization"] 
 location=["London, UK"] 
 connections=54 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

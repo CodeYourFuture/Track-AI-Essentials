@@ -8,7 +8,6 @@ tagline="Trainee Database Administrator | Warehouse Team Lead"
 keywords=["SQL", "Database Management", "Inventory Systems", "Data Analysis"]
 location=["London", "UK"]
 connections=59
-applied=["job-31", "job-36"]
 +++
 
 ## About

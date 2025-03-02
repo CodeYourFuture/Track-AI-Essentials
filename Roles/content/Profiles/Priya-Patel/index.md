@@ -8,7 +8,6 @@ tagline="Trainee Quality Assurance Engineer | Tech Returner"
 keywords=["Software Testing", "Test Documentation", "Quality Assurance", "Data Analysis"]
 location=["Manchester", "UK"]
 connections=43
-applied=["job-32", "job-37"]
 +++
 
 ## About

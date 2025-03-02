@@ -8,9 +8,8 @@ tagline="Software Engineer | Open Source Contributor | Startup Founder"
 keywords=["Software Engineering", "Entrepreneurship", "React", "Node.js"] 
 location=["London, UK"] 
 connections=156 
-applied=["job-10", "job-5"] 
 [build]    
-render='never'   
+   
 list='local'    
 publishResources=false  
 +++

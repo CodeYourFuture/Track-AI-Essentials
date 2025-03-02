@@ -8,7 +8,6 @@ tagline="Software Engineer | QA Engineer | Accessibility Advocate"
 keywords=["Software Engineering", "QA", "Testing", "Security"] 
 location=["London, UK"] 
 connections=123 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

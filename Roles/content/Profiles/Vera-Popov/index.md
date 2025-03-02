@@ -8,9 +8,8 @@ tagline="Retail Database Support | Inventory Systems"
 keywords=["Database Support", "Inventory Management", "Data Protection"] 
 location=["Brighton, UK"] 
 connections=67 
-applied=["job-2", "job-4"] 
 [build]    
-render='never'   
+   
 list='local'    
 publishResources=false  
 +++

@@ -8,7 +8,6 @@ tagline="Service Desk Analyst | Former Youth Support Worker"
 keywords=["IT Support", "Help Desk Systems", "Technical Support", "System Administration"]
 location=["Glasgow", "UK"]
 connections=55
-applied=["job-28", "job-33"]
 +++
 
 ## About

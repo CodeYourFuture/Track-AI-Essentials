@@ -8,8 +8,6 @@ tagline="Software Engineer | Project Manager"
 keywords=["Python", "Linux", "Networking", "Cloud Infrastructure"]
 location=["Leeds", "UK"]
 connections=76
-applied=["job-11", "job-17"]
- 
 +++
 
 ## About

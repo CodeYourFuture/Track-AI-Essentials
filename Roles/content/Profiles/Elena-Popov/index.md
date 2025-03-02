@@ -9,7 +9,6 @@ tagline="Trainee Software Engineer | Former Graphic Designer"
 keywords=["Software Engineering", "Design", "Creative Problem Solving"] 
 location=["Edinburgh", "UK"] 
 connections=143 
-applied=["jd-1", "jd-6"] 
 +++
 
 ## About

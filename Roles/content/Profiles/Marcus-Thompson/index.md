@@ -8,7 +8,6 @@ tagline="Junior Database Administrator | Former Retail Supervisor"
 keywords=["SQL", "Database Management", "System Administration", "Data Security"]
 location=["London", "UK"]
 connections=62
-applied=["job-27", "job-32"]
 +++
 
 ## About

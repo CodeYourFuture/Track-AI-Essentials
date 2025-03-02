@@ -8,7 +8,6 @@ tagline="Machine Learning Engineer | Data Science Innovator"
 keywords=["Machine Learning", "AI", "Data Science", "Python"] 
 location=["Manchester, UK"] 
 connections=98 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

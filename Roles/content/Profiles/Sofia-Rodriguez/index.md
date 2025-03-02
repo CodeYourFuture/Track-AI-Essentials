@@ -8,7 +8,6 @@ tagline="Cloud Solutions Engineer | DevOps Specialist"
 keywords=["Cloud Computing", "DevOps", "Kubernetes", "CI/CD"] 
 location=["Edinburgh, UK"] 
 connections=112 
-applied=["job-16", "job-21"] 
 +++
 
 ## About

@@ -8,9 +8,8 @@ tagline="Software Engineer | Data Analytics | Education Technology"
 keywords=["Software Engineering", "Data Analysis", "React", "PostgreSQL"] 
 location=["Birmingham, UK"] 
 connections=167 
-applied=["job-2", "job-5"] 
 [build]    
-render='never'   
+   
 list='local'    
 publishResources=false  
 +++

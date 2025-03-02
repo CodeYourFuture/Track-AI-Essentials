@@ -8,8 +8,6 @@ tagline="Software Engineer | Operations Manager"
 keywords=["JavaScript", "HTML/CSS", "Python", "React", "Node.js"] 
 location=["Birmingham", "UK"] 
 connections=112 
-applied=["job-19", "job-25"] 
-
 +++
 
 ## About

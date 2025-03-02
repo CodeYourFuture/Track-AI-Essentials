@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Former Police Officer"
 keywords=["Software Engineering", "Public Service", "Security"] 
 location=["Liverpool", "UK"] 
 connections=67 
-applied=["job-10", "job-22"] 
-
 +++
 
 ## About

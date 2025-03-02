@@ -8,8 +8,6 @@ tagline="Software Engineer"
 keywords=["Python", "Data Engineering", "Linux", "Automation"]
 location=["Sheffield", "UK"]
 connections=67
-applied=["job-21", "job-24"]
- 
 +++
 
 ## About

@@ -8,8 +8,6 @@ tagline="Junior Software Engineer | Former Restaurant Manager"
 keywords=["Python", "Linux Systems", "Infrastructure", "Cloud Computing"]
 location=["Manchester", "UK"]
 connections=69
-applied=["job-17", "job-23"]
-
 +++
 
 ## About

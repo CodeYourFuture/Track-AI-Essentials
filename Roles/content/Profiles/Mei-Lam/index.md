@@ -8,7 +8,6 @@ tagline="Restaurant Manager | Emerging Software Engineer"
 keywords=["Hospitality Management", "Operations", "Team Leadership"] 
 location=["London, UK"] 
 connections=39 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

@@ -8,7 +8,6 @@ tagline="Information Governance Support | Clear Communication Specialist"
 keywords=["Information Governance", "Data Protection", "Multi-language Communication"] 
 location=["Manchester, UK"] 
 connections=94 
-applied=["job-1", "job-5"] 
 +++
 
 ## About

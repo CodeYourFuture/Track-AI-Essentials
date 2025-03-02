@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Former Shop Owner"
 keywords=["Software Engineering", "Retail", "Customer Service"] 
 location=["Leeds", "UK"] 
 connections=89 
-applied=["job-2", "job-5"] 
-
 +++
 
 ## About

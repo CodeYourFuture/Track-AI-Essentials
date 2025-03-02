@@ -8,9 +8,8 @@ tagline="Software Engineer | Former Pharmacy Assistant"
 keywords=["Python", "Linux Systems", "Infrastructure", "Cloud Computing"]
 location=["Birmingham", "UK"]
 connections=64
-applied=["job-14", "job-20"]
 [build]
-render='never'
+
 list='local'
 publishResources=false
 +++

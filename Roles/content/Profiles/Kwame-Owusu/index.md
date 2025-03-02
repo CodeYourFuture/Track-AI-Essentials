@@ -8,7 +8,6 @@ tagline="Trainee Service Desk Analyst | Delivery Driver"
 keywords=["IT Support", "Technical Support", "Customer Service", "System Administration"]
 location=["Birmingham", "UK"]
 connections=51
-applied=["job-30", "job-35"]
 +++
 
 ## About

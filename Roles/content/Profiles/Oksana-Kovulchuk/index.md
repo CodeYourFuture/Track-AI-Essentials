@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Recent Graduate"
 keywords=["Software Engineering", "Research", "Data Analysis"] 
 location=["Cardiff", "UK"] 
 connections=52 
-applied=["job-1", "job-4"] 
-
 +++
 
 ## About

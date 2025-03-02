@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Former Carpenter"
 keywords=["Software Engineering", "Woodworking", "Project Management"] 
 location=["Sheffield", "UK"] 
 connections=78 
-applied=["job-2", "job-6"] 
-
 +++
 
 ## About

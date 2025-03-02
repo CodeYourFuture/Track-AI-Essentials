@@ -8,7 +8,6 @@ tagline="Information Support | Building Digital Skills"
 keywords=["Information Support", "Clear Communication", "Digital Skills"] 
 location=["Leeds, UK"] 
 connections=35 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

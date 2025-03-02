@@ -8,7 +8,6 @@ tagline="Delivery Driver | Emerging Technologist"
 keywords=["Logistics", "Route Optimization", "Problem Solving"] 
 location=["Leeds, UK"] 
 connections=44 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

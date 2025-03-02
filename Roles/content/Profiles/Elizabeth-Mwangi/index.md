@@ -8,7 +8,6 @@ tagline="Professional Musician | Emerging Technologist"
 keywords=["Music Performance", "Creative Arts", "Communication"] 
 location=["Leeds, UK"] 
 connections=45 
-applied=["job-2", "job-5"] 
 +++
 
 ## About

@@ -8,7 +8,6 @@ tagline="Community Support Specialist | Tech Career Transitioner"
 keywords=["Community Support", "Communication", "Social Services"] 
 location=["Manchester, UK"] 
 connections=67 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

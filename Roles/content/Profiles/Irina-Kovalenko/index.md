@@ -8,8 +8,6 @@ tagline="Software Engineer | Former Network Administrator"
 keywords=["Python", "Infrastructure", "Cloud Computing", "Network Security"]
 location=["Sheffield", "UK"]
 connections=71
-applied=["job-18", "job-25"]
- 
 +++
 
 ## About

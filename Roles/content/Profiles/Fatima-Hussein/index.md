@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Healthcare Professional"
 keywords=["Software Engineering", "Healthcare", "Patient Care"] 
 location=["Leeds", "UK"] 
 connections=4 
-applied=["job-15"] 
-
 +++
 
 ## About

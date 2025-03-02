@@ -8,7 +8,6 @@ tagline="Job Seeker | Learning Data Skills"
 keywords=["Data Analysis", "Excel", "Basic SQL"] 
 location=["Liverpool, UK"] 
 connections=45 
-applied=["job-2", "job-4"]  
 +++
 
 ## About

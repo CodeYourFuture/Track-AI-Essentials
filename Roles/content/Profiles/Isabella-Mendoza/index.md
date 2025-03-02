@@ -8,7 +8,6 @@ tagline="Data Support Specialist | Information Privacy"
 keywords=["Information Support", "Data Protection", "Clear Communication"] 
 location=["Sheffield, UK"] 
 connections=48 
-applied=["job-1", "job-5"] 
 +++
 
 ## About

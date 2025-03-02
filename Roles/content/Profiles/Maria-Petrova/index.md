@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Research Scientist"
 keywords=["Software Engineering", "Data Analysis", "Research"] 
 location=["Manchester", "UK"] 
 connections=8 
-applied=["job-1", "job-3"] 
-
 +++
 
 ## About

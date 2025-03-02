@@ -8,7 +8,6 @@ tagline="Software Engineer | Education Technology | Digital Accessibility Advoca
 keywords=["Software Engineering", "EdTech", "Accessibility", "React"] 
 location=["Leeds, UK"] 
 connections=937
-applied=["job-3", "job-5"] 
 +++
 
 ## About

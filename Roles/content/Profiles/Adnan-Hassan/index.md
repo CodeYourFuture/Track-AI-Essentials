@@ -8,7 +8,6 @@ tagline="Retail Operations Manager | Emerging Technologist"
 keywords=["Retail Management", "Operations", "Customer Service"] 
 location=["London, UK"] 
 connections=52 
-applied=["job-2", "job-4"] 
 +++
 
 ## About

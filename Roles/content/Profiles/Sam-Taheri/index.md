@@ -8,9 +8,8 @@ tagline="Junior Quality Assurance Engineer | Former Customer Service Representat
 keywords=["Software Testing", "SQL", "Test Automation", "JIRA"]
 location=["Manchester", "UK"]
 connections=58
-applied=["job-26", "job-31"]
 [build]
-render='never'
+
 list='local'
 publishResources=false
 +++

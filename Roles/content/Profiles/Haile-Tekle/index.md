@@ -8,8 +8,6 @@ tagline="Trainee Software Engineer | Former Teacher"
 keywords=["Software Engineering", "Education", "Mathematics"] 
 location=["Manchester", "UK"] 
 connections=89 
-applied=["job-2", "job-25"] 
-
 +++
 
 ## About

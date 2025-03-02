@@ -8,7 +8,6 @@ tagline="Trainee Service Desk Analyst | Career Returner"
 keywords=["IT Support", "Customer Service", "Technical Support"]
 location=["Manchester", "UK"]
 connections=35
-applied=["job-35", "job-40"]
 +++
 
 ## About
