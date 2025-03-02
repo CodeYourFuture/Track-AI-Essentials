@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: saira.alqabbani@email.com  
 Github: https://www.github.com/sairaalqabbani  
-LinkedIn: https://www.linkedin.com/in/saira-al-qabbani  
+LinkedIn: https://www.flinkedin.com/in/saira-al-qabbani  
 Location: London, UK
 
 ## Personal Statement

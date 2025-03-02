@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: blessing.peters@email.com
 Location: Reading/London, UK
-LinkedIn: linkedin.com/in/blessingopeters
+LinkedIn: flinkedin.com/in/blessingopeters
 
 ## Personal Statement
 

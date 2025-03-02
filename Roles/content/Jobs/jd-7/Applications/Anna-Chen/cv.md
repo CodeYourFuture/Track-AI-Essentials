@@ -11,7 +11,7 @@ render='never'
 **Anna Chen**  
 +44 7700 100000  
 Email: anna.chen@email.com  
-LinkedIn: linkedin.com/in/annachen  
+LinkedIn: flinkedin.com/in/annachen  
 Location: Liverpool, UK
 
 ## Personal Statement

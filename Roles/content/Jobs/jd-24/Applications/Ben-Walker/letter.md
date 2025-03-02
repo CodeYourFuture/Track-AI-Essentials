@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: ben.walker@email.com  
 Github: https://www.github.com/benwalker  
-LinkedIn: https://www.linkedin.com/in/ben-walker  
+LinkedIn: https://www.flinkedin.com/in/ben-walker  
 Reading, UK
 
 24 February 2025

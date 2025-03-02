@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: marcus.thompson@email.com
 Location: Reading/London, UK
-LinkedIn: linkedin.com/in/marcusthompson
+LinkedIn: flinkedin.com/in/marcusthompson
 
 ## Personal Statement
 

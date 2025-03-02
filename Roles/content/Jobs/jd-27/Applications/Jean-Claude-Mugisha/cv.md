@@ -10,7 +10,7 @@ render='never'
 
 +440000000000  
 Email: jeanclaude.mugisha@email.com  
-LinkedIn: https://www.linkedin.com/in/jean-claude-mugisha  
+LinkedIn: https://www.flinkedin.com/in/jean-claude-mugisha  
 Location: Birmingham, UK (Willing to relocate to Leeds)
 
 ## Personal Statement

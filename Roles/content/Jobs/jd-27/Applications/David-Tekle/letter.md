@@ -10,7 +10,7 @@ render='never'
 
 +440000000000  
 Email: david.tekle@email.com  
-LinkedIn: https://www.linkedin.com/in/david-tekle  
+LinkedIn: https://www.flinkedin.com/in/david-tekle  
 Leeds, UK
 
 24 February 2025

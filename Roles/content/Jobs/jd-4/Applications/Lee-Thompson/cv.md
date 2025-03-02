@@ -11,7 +11,7 @@ render='never'
 **Lee Thompson**  
 +44 7700 700000  
 Email: lee.thompson@email.com  
-LinkedIn: linkedin.com/in/leethompson  
+LinkedIn: flinkedin.com/in/leethompson  
 Location: Leeds, UK
 
 ## Personal Statement

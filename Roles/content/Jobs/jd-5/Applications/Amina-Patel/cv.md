@@ -11,7 +11,7 @@ render='never'
 **Amina Patel**  
 +44 7700 200000  
 Email: amina.patel@email.com  
-LinkedIn: linkedin.com/in/aminapatel  
+LinkedIn: flinkedin.com/in/aminapatel  
 Location: Leicester, UK
 
 ## Personal Statement

@@ -11,7 +11,7 @@ render='never'
 **David Osei**  
 +44 7700 900000  
 Email: david.osei@email.com  
-LinkedIn: linkedin.com/in/davidosei  
+LinkedIn: flinkedin.com/in/davidosei  
 Location: Glasgow, UK
 
 ## Personal Statement

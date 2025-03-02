@@ -11,7 +11,7 @@ render='never'
 **Abdul Rahman**  
 +44 7700 100000  
 Email: abdul.rahman@email.com  
-LinkedIn: linkedin.com/in/abdulrahman  
+LinkedIn: flinkedin.com/in/abdulrahman  
 Location: Glasgow, UK
 
 ## Personal Statement

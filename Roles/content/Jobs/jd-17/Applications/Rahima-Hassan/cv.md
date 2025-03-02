@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: rahima.hassan@email.com
 Location: Croydon/London, UK
-LinkedIn: linkedin.com/in/rahimahassan
+LinkedIn: flinkedin.com/in/rahimahassan
 
 ## Professional Summary
 

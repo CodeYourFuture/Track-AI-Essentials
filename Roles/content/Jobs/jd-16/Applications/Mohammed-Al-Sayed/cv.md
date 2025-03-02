@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: mohammed.alsayed@email.com
 Location: Sheffield, UK
-LinkedIn: linkedin.com/in/mohammedalsayed
+LinkedIn: flinkedin.com/in/mohammedalsayed
 Portfolio: mohammedalsayed.design
 
 ## Personal Statement

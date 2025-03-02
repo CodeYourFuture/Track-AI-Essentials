@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: nasir.os@email.com
 Location: Birmingham, UK
-LinkedIn: linkedin.com/in/nasiros
+LinkedIn: flinkedin.com/in/nasiros
 
 ## Professional Summary
 

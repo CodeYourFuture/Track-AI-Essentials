@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: paul.richardson@email.com  
 Github: https://www.github.com/paulrichardson  
-LinkedIn: https://www.linkedin.com/in/paul-richardson  
+LinkedIn: https://www.flinkedin.com/in/paul-richardson  
 Location: Reading, UK
 
 ## Personal Statement

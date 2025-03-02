@@ -11,7 +11,7 @@ render='never'
 **Jamie MacKenzie**  
 +44 7700 800000  
 Email: jamie.mackenzie@email.com  
-LinkedIn: linkedin.com/in/jamiemackenzie  
+LinkedIn: flinkedin.com/in/jamiemackenzie  
 Location: Glasgow, UK
 
 ## Personal Statement

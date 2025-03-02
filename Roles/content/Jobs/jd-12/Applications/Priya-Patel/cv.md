@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: priya.patel@email.com
 Location: Manchester, UK
-LinkedIn: linkedin.com/in/priyapatel
+LinkedIn: flinkedin.com/in/priyapatel
 
 ## Personal Statement
 

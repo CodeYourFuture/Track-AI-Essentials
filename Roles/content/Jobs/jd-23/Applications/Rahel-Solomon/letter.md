@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: rahel.solomon@email.com  
 Github: https://www.github.com/rahelsolomon  
-LinkedIn: https://www.linkedin.com/in/rahel-solomon  
+LinkedIn: https://www.flinkedin.com/in/rahel-solomon  
 Manchester, UK
 
 24 February 2025

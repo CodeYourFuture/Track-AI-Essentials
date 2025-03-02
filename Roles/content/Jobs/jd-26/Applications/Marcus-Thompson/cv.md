@@ -10,7 +10,7 @@ render='never'
 
 +440000000000  
 Email: marcus.thompson@email.com  
-LinkedIn: https://www.linkedin.com/in/marcus-thompson  
+LinkedIn: https://www.flinkedin.com/in/marcus-thompson  
 Location: London, UK
 
 ## Personal Statement

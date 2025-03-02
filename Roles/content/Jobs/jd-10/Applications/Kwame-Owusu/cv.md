@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: kwame.owusu@email.com
 Location: Birmingham, UK
-LinkedIn: linkedin.com/in/kwame-owusu
+LinkedIn: flinkedin.com/in/kwame-owusu
 
 ## Personal Statement
 

@@ -12,7 +12,7 @@ render='never'
 Email: jamie.mackenzie@email.com
 Location: Glasgow, UK
 Github: github.com/jamiemack
-LinkedIn: linkedin.com/in/jamiemackenzie
+LinkedIn: flinkedin.com/in/jamiemackenzie
 
 ## Personal Statement
 

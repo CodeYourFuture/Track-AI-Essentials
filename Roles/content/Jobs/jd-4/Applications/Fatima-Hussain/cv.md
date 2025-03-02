@@ -11,7 +11,7 @@ render='never'
 **Fatima Hussain**  
 +44 7700 900000  
 Email: fatima.hussain@email.com  
-LinkedIn: linkedin.com/in/fatimahussain  
+LinkedIn: flinkedin.com/in/fatimahussain  
 Location: Leeds, UK
 
 **Personal Statement**  

@@ -11,7 +11,7 @@ render='never'
 **Haile Tekle**  
 +44 7700 400000  
 Email: haile.tekle@email.com  
-LinkedIn: linkedin.com/in/hailetekle  
+LinkedIn: flinkedin.com/in/hailetekle  
 Location: willing to relocate
 
 ## Personal Statement

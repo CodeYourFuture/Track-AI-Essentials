@@ -10,7 +10,7 @@ render='never'
 
 +44 7700 000000
 Email: elena.kovac@email.com
-LinkedIn: https://www.linkedin.com/in/elena-kovac
+LinkedIn: https://www.flinkedin.com/in/elena-kovac
 Location: Manchester, UK
 
 ## Professional Summary

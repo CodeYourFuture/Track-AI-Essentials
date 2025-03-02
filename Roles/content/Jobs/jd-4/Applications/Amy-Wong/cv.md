@@ -9,7 +9,7 @@ render='never'
 **Amy Wong**
 +44 0113 123 4567
 Email: amy.wong@email.com
-LinkedIn: linkedin.com/in/amywong
+LinkedIn: flinkedin.com/in/amywong
 Location: Leeds, UK
 
 **Personal Statement**

@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: maria.petrova@email.com  
 Github: https://www.github.com/mariapetrova  
-LinkedIn: https://www.linkedin.com/in/maria-petrova  
+LinkedIn: https://www.flinkedin.com/in/maria-petrova  
 Location: Manchester, UK
 
 ## Personal Statement

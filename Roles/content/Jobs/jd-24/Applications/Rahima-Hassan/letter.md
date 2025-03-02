@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: rahima.hassan@email.com  
 Github: https://www.github.com/rahimahassan  
-LinkedIn: https://www.linkedin.com/in/rahima-hassan  
+LinkedIn: https://www.flinkedin.com/in/rahima-hassan  
 London, UK
 
 24 February 2025

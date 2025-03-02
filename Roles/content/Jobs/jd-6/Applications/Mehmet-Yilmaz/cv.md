@@ -11,7 +11,7 @@ render='never'
 **Mehmet Yilmaz**  
 +44 7700 200000  
 Email: mehmet.yilmaz@email.com  
-LinkedIn: linkedin.com/in/mehmetyilmaz  
+LinkedIn: flinkedin.com/in/mehmetyilmaz  
 Location: Manchester, UK
 
 ## Personal Statement

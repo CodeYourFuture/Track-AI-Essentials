@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: hiba.osman@email.com
 Location: Reading/London, UK
-LinkedIn: linkedin.com/in/hibaosman
+LinkedIn: flinkedin.com/in/hibaosman
 
 ## Personal Statement
 

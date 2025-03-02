@@ -108,3 +108,8 @@ After each screening session, consider:
 3. How did you handle borderline cases?
 4. What would make your screening more efficient?
 5. If you used AI, did it help?
+
+Write down your answers in your notebook.
+
+> [!TIP]
+> This project is a living project and it belongs to you. It will run at least 12 times over the next two years and it should evolve as AI evolves. To improve this project, please open a ticket and/or submit a pull request to this website with your changes.

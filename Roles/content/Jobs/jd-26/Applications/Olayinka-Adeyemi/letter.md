@@ -10,7 +10,7 @@ render='never'
 
 +440000000000  
 Email: olayinka.adeyemi@email.com  
-LinkedIn: https://www.linkedin.com/in/olayinka-adeyemi  
+LinkedIn: https://www.flinkedin.com/in/olayinka-adeyemi  
 London, UK
 
 24 February 2025

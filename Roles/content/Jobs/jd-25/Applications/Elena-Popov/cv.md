@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: elena.popov@email.com  
 Github: https://www.github.com/elenapopov  
-LinkedIn: https://www.linkedin.com/in/elena-popov  
+LinkedIn: https://www.flinkedin.com/in/elena-popov  
 Location: Edinburgh, UK
 
 ## Personal Statement

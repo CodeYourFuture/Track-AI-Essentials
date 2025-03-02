@@ -12,7 +12,7 @@ render='never'
 Email: nasir.os@email.com
 Location: Birmingham, UK
 Github: github.com/nasiros
-LinkedIn: linkedin.com/in/nasirostech
+LinkedIn: flinkedin.com/in/nasirostech
 
 ## Personal Statement
 

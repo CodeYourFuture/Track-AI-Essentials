@@ -12,7 +12,7 @@ render='never'
 Email: abdul.rahman@email.com
 Location: Glasgow, UK
 Github: github.com/abdulrahman
-LinkedIn: linkedin.com/in/abdulrahman
+LinkedIn: flinkedin.com/in/abdulrahman
 
 ## Personal Statement
 

@@ -10,7 +10,7 @@ render='never'
 
 +440000000000  
 Email: david.tekle@email.com  
-LinkedIn: https://www.linkedin.com/in/david-tekle  
+LinkedIn: https://www.flinkedin.com/in/david-tekle  
 Location: Leeds, UK
 
 ## Personal Statement

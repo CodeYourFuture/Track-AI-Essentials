@@ -10,7 +10,7 @@ render='never'
 
 +44 7700 000000
 Email: clara.kebedom@email.com
-LinkedIn: https://www.linkedin.com/in/clara-kebedom
+LinkedIn: https://www.flinkedin.com/in/clara-kebedom
 Location: Manchester, UK
 
 ## Professional Summary

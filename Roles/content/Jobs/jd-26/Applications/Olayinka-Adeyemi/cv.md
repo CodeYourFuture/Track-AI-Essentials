@@ -10,7 +10,7 @@ render='never'
 
 +440000000000  
 Email: emmanuel.adebayo@email.com  
-LinkedIn: https://www.linkedin.com/in/emmanuel-adebayo  
+LinkedIn: https://www.flinkedin.com/in/emmanuel-adebayo  
 Location: Croydon, UK
 
 ## Personal Statement

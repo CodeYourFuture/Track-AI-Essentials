@@ -11,7 +11,7 @@ render='never'
 **Anna Petrova**  
 +44 7700 400000  
 Email: anna.petrova@email.com  
-LinkedIn: linkedin.com/in/annapetrova  
+LinkedIn: flinkedin.com/in/annapetrova  
 Location: Manchester, UK
 
 ## Personal Statement

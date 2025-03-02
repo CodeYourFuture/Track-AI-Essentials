@@ -6,7 +6,7 @@ time=240
 
 +++
 
-In this role, you're going to act as an interviewer. In your team, someone has just left for a new job. You really need a new team member because you are all delivering a huge project. It's really stressful! But your team had a bad experience last year with a colleague who wouldn't work with others, so you _also_ want to make sure this person will not upset your friendly, productive working environment. It's a challenge. You know you can't find this out for sure in a twenty minute conversation, but that's almost _all_ you have to go on. How will you evaluate interviewees quickly, efficiently and fairly, whilst:
+In this role, you're going to act as an interviewer. In your team, someone has just left for a new job. You really need a new team member because you are all delivering a huge project. It's really stressful! But your team had a bad experience last year with/Applications/Xcode.app/Contents/Developer/usr/bin/python3 -m pip install --upgrade pip a colleague who wouldn't work with others, so you _also_ want to make sure this person will not upset your friendly, productive working environment. It's a challenge. You know you can't find this out for sure in a twenty minute conversation, but that's almost _all_ you have to go on. How will you evaluate interviewees quickly, efficiently and fairly, whilst:
 
 1. Finding someone who can do the work you need
 2. Finding someone who can work with the people on your team
@@ -78,7 +78,7 @@ We really just want friendly colleagues who know how to do proper code review. T
 > 2. Tell us about a time you handled a conflict in your team. Up to 5 points
 > 3. Tell us about a technical risk you handled on a project. If you have ever worked with payments and transaction flows, tell us about a risk you handled on a project involving these. Up to 3 points
 >
-> Then a Yes/No from each\* interviewer.
+> Then a Yes/No from each interviewer.
 
 {{</columns>}}
 
@@ -118,4 +118,7 @@ After each interview, consider:
 
 ## Submitting Your Work
 
-There's no submission step. Your work is complete when you have hired a candidate. You can reflect on your experience in your notebook.
+There's no submission step. Your work is complete when you have "hired" a candidate. Write down your reflections in your notebook.
+
+> [!TIP]
+> This project is a living project and it belongs to you. It will run at least 12 times over the next two years and it should evolve as AI evolves. To improve this project, please open a ticket and/or submit a pull request to this website with your changes.

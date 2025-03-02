@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: olayinka.adeyemi@email.com
 Location: Reading/London, UK
-LinkedIn: linkedin.com/in/olayinkaadeyemi
+LinkedIn: flinkedin.com/in/olayinkaadeyemi
 
 ## Personal Statement
 

@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: chibi.okonkwo@email.com
 Location: Reading/London, UK
-LinkedIn: linkedin.com/in/chibiokonkwo
+LinkedIn: flinkedin.com/in/chibiokonkwo
 
 ## Personal Statement
 

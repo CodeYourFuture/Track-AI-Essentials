@@ -10,7 +10,7 @@ render='never'
 
 +440000000000  
 Email: kwame.owusu@email.com  
-LinkedIn: https://www.linkedin.com/in/kwame-owusu  
+LinkedIn: https://www.flinkedin.com/in/kwame-owusu  
 Location: London, UK
 
 ## Personal Statement

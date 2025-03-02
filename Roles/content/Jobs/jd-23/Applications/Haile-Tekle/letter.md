@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: haile.tekle@email.com  
 Github: https://www.github.com/hailetekle  
-LinkedIn: https://www.linkedin.com/in/haile-tekle  
+LinkedIn: https://www.flinkedin.com/in/haile-tekle  
 Manchester, UK
 
 24 February 2025

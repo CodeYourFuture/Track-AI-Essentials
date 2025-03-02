@@ -11,7 +11,7 @@ render='never'
 **Emmanuel Adebayo**  
 +44 7700 300000  
 Email: emmanuel.adebayo@email.com  
-LinkedIn: linkedin.com/in/emmanueladebayo  
+LinkedIn: flinkedin.com/in/emmanueladebayo  
 Location: Manchester, UK
 
 ## Personal Statement

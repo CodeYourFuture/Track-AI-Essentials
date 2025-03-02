@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: yonas.kidane@email.com
 Location: Birmingham, UK
-LinkedIn: linkedin.com/in/yonaskidane
+LinkedIn: flinkedin.com/in/yonaskidane
 
 ## Professional Summary
 

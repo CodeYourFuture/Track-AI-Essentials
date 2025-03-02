@@ -10,7 +10,7 @@ render='never'
 
 +440000000000  
 Email: chibi.okonkwo@email.com  
-LinkedIn: https://www.linkedin.com/in/chibi-okonkwo  
+LinkedIn: https://www.flinkedin.com/in/chibi-okonkwo  
 Location: London, UK
 
 ## Personal Statement

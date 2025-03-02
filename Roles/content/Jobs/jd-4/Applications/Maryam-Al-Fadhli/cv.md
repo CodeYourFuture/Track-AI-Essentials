@@ -11,7 +11,7 @@ render='never'
 **Maryam Al-Fadhli**  
 +44 7700 800000  
 Email: maryam.alfadhli@email.com  
-LinkedIn: linkedin.com/in/maryamalfadhli  
+LinkedIn: flinkedin.com/in/maryamalfadhli  
 Location: Leeds, UK
 
 ## Personal Statement

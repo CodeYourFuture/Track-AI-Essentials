@@ -11,7 +11,7 @@ render='never'
 **Rahel Solomon**  
 +44 7700 600000  
 Email: rahel.solomon@email.com  
-LinkedIn: linkedin.com/in/rahelsolomon  
+LinkedIn: flinkedin.com/in/rahelsolomon  
 Location: London, UK
 
 ## Personal Statement

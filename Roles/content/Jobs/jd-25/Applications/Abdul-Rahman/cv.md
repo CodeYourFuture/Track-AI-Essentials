@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: abdul.rahman@email.com  
 Github: https://www.github.com/abdulrahman  
-LinkedIn: https://www.linkedin.com/in/abdul-rahman  
+LinkedIn: https://www.flinkedin.com/in/abdul-rahman  
 Location: Glasgow, UK
 
 ## Personal Statement

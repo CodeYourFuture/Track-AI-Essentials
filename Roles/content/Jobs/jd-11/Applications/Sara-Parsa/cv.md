@@ -12,7 +12,7 @@ render='never'
 Email: sara.parsa@email.com
 Location: Glasgow, UK
 Github: github.com/saraparsa
-LinkedIn: linkedin.com/in/saraparsa
+LinkedIn: flinkedin.com/in/saraparsa
 
 ## Personal Statement
 

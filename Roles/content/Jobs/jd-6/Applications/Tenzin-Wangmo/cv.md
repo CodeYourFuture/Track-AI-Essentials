@@ -11,7 +11,7 @@ render='never'
 **Tenzin Wangmo**  
 +44 7700 700000  
 Email: tenzin.wangmo@email.com  
-LinkedIn: linkedin.com/in/tenzinwangmo  
+LinkedIn: flinkedin.com/in/tenzinwangmo  
 Location: Manchester, UK
 
 ## Personal Statement

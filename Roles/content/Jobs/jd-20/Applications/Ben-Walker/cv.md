@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: ben.walker@email.com
 Location: Manchester, UK
-LinkedIn: linkedin.com/in/benwalker
+LinkedIn: flinkedin.com/in/benwalker
 
 ## Professional Summary
 

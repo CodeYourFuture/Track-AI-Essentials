@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: mariam.abboud@email.com  
 Github: https://www.github.com/mariamabboud  
-LinkedIn: https://www.linkedin.com/in/mariam-abboud  
+LinkedIn: https://www.flinkedin.com/in/mariam-abboud  
 Glasgow, UK
 
 24 February 2025

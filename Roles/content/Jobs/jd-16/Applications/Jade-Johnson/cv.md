@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: jade.johnson@email.com
 Location: Sheffield, UK
-LinkedIn: linkedin.com/in/jadejohnson
+LinkedIn: flinkedin.com/in/jadejohnson
 
 ## Personal Statement
 

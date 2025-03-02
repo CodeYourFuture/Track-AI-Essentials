@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: amin.ibrahim@email.com  
 Github: https://www.github.com/aminibrahim  
-LinkedIn: https://www.linkedin.com/in/amin-ibrahim  
+LinkedIn: https://www.flinkedin.com/in/amin-ibrahim  
 Location: London, UK
 
 ## Personal Statement

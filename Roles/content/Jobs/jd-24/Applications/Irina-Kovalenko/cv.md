@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: iryna.kovalenko@email.com  
 Github: https://www.github.com/irynakovalenko  
-LinkedIn: https://www.linkedin.com/in/iryna-kovalenko  
+LinkedIn: https://www.flinkedin.com/in/iryna-kovalenko  
 Location: London, UK (Willing to relocate to Reading)
 
 ## Personal Statement

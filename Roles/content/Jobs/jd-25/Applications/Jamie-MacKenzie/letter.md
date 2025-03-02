@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: jamie.mackenzie@email.com  
 Github: https://www.github.com/jamiemackenzie  
-LinkedIn: https://www.linkedin.com/in/jamie-mackenzie  
+LinkedIn: https://www.flinkedin.com/in/jamie-mackenzie  
 Glasgow, UK
 
 24 February 2025

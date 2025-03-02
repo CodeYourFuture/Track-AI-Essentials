@@ -9,7 +9,7 @@ render='never'
 **Blessing Okonjo Peters**
 +44 7700 000000
 Email: blessing.peters@email.com
-LinkedIn: https://www.linkedin.com/in/blessing-okonjo-peters
+LinkedIn: https://www.flinkedin.com/in/blessing-okonjo-peters
 Location: London, UK, Hybrid/Remote
 
 **Personal Statement**

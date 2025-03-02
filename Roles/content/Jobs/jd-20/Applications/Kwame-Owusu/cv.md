@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: kwame.owusu@email.com
 Location: Manchester, UK
-LinkedIn: linkedin.com/in/kwameowusu
+LinkedIn: flinkedin.com/in/kwameowusu
 
 ## Professional Summary
 

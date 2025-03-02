@@ -11,7 +11,7 @@ render='never'
 **Bereket Haile**  
 +44 7700 300000  
 Email: bereket.haile@email.com  
-LinkedIn: linkedin.com/in/berekethaile  
+LinkedIn: flinkedin.com/in/berekethaile  
 Location: Edinburgh, UK
 
 ## Personal Statement

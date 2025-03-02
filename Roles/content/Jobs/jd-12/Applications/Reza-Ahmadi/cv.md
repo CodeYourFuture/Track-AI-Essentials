@@ -12,7 +12,7 @@ render='never'
 Email: reza.ahmadi@email.com
 Location: Manchester, UK
 Github: github.com/rezaahmadi
-LinkedIn: linkedin.com/in/rezaahmadi
+LinkedIn: flinkedin.com/in/rezaahmadi
 
 ## Personal Statement
 

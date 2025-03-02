@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: tenzin.wangmo@email.com  
 Github: https://www.github.com/tenzinwangmo  
-LinkedIn: https://www.linkedin.com/in/tenzin-wangmo  
+LinkedIn: https://www.flinkedin.com/in/tenzin-wangmo  
 Manchester, UK
 
 24 February 2025

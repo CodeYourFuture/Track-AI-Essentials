@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: clara.kebedom@email.com  
 Github: https://www.github.com/clarakebedom  
-LinkedIn: https://www.linkedin.com/in/clara-kebedom  
+LinkedIn: https://www.flinkedin.com/in/clara-kebedom  
 Manchester, UK
 
 24 February 2025

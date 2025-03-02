@@ -11,7 +11,7 @@ render='never'
 +44 7700 000000
 Email: leila.mahmoud@email.com
 Location: Birmingham, UK
-LinkedIn: linkedin.com/in/leila-mahmoud
+LinkedIn: flinkedin.com/in/leila-mahmoud
 
 ## Personal Statement
 

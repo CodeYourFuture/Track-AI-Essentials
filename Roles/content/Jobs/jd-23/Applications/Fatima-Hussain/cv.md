@@ -11,7 +11,7 @@ render='never'
 +440000000000  
 Email: fatima.hussain@email.com  
 Github: https://www.github.com/fatimahussain  
-LinkedIn: https://www.linkedin.com/in/fatima-hussain  
+LinkedIn: https://www.flinkedin.com/in/fatima-hussain  
 Location: Manchester, UK
 
 ## Personal Statement

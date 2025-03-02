@@ -10,7 +10,7 @@ render='never'
 
 +440000000000  
 Email: paul.richardson@email.com  
-LinkedIn: https://www.linkedin.com/in/paul-richardson  
+LinkedIn: https://www.flinkedin.com/in/paul-richardson  
 Reading, UK
 
 24 February 2025

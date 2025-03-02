@@ -11,7 +11,7 @@ render='never'
 **Paul Richardson**  
 +44 7700 500000  
 Email: paul.richardson@email.com  
-LinkedIn: linkedin.com/in/paulrichardson  
+LinkedIn: flinkedin.com/in/paulrichardson  
 Location: Manchester, UK
 
 ## Personal Statement

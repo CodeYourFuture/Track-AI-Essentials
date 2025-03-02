@@ -12,7 +12,7 @@ render='never'
 Email: ben.walker@email.com
 Location: Birmingham, UK
 Github: github.com/benwalker
-LinkedIn: linkedin.com/in/benwalker
+LinkedIn: flinkedin.com/in/benwalker
 
 ## Personal Statement
 

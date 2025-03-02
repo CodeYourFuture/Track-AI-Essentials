@@ -10,7 +10,7 @@ render='never'
 
 +440000000000  
 Email: amy.wong@email.com  
-LinkedIn: https://www.linkedin.com/in/amy-wong  
+LinkedIn: https://www.flinkedin.com/in/amy-wong  
 London, UK
 
 24 February 2025
