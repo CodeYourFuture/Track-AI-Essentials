@@ -6,7 +6,7 @@ time=240
 
 +++
 
-In this role, you're going to act as an interviewer. In your team, someone has just left for a new job. You really need a new team member because you are all delivering a huge project. It's really stressful! But your team had a bad experience last year with/Applications/Xcode.app/Contents/Developer/usr/bin/python3 -m pip install --upgrade pip a colleague who wouldn't work with others, so you _also_ want to make sure this person will not upset your friendly, productive working environment. It's a challenge. You know you can't find this out for sure in a twenty minute conversation, but that's almost _all_ you have to go on. How will you evaluate interviewees quickly, efficiently and fairly, whilst:
+In this role, you're going to act as an interviewer. In your team, someone has just left for a new job. You really need a new team member because you are all delivering a huge project. It's really stressful! But your team had a bad experience last year with a colleague who wouldn't work with others, so you _also_ want to make sure this person will not upset your friendly, productive working environment. It's a challenge. You know you can't find this out for sure in a twenty minute conversation, but that's almost _all_ you have to go on. How will you evaluate interviewees quickly, efficiently and fairly, whilst:
 
 1. Finding someone who can do the work you need
 2. Finding someone who can work with the people on your team
@@ -17,7 +17,7 @@ How do interviewers do this? Well, they use all kinds of different systems. But 
 
 ### What You'll Get
 
-- You'll get a job description, that the candidate has seen.
+- You'll get this [job description](jobs/#finsoft-xl-solutions), that the candidate has seen.
 - You'll get each candidate's application: CV and cover letter
 - You'll also get a team description, that only you know.
 
@@ -85,7 +85,7 @@ We really just want friendly colleagues who know how to do proper code review. T
 ## 🧪 Activities
 
 {{<note type="activity" title="1 - Planning">}}
-Review a provided job description, backstory, and candidates and create your interview questions:
+Review the [provided job description](jobs/#finsoft-xl-solutions), backstory, and candidates and create your interview questions:
 
 - What are the must-have criteria that you need to find out?
 - What are the nice-to-have criteria that you can be flexible about?
@@ -121,4 +121,4 @@ After each interview, consider:
 There's no submission step. Your work is complete when you have "hired" a candidate. Write down your reflections in your notebook.
 
 > [!TIP]
-> This project is a living project and it belongs to you. It will run at least 12 times over the next two years and it should evolve as AI evolves. To improve this project, please open a ticket and/or submit a pull request to this website with your changes.
+> This project is a living project and it belongs to you. It will run at least 12 times over the next two years and it should evolve as AI evolves. To improve this project, make it clearer and more useful, please open a ticket and/or submit a pull request to this website with your changes.

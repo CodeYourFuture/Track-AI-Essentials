@@ -6,9 +6,12 @@ time=180
 
 +++
 
-In this role, you're going to act as an candidate. You are looking for a job. You must write at least two applications (and as many more as feels useful). You will be assigned one job description that you _must_ apply for and you need to find at least one more yourself in the [job listings.](/jobs)
+In this role, you're going to act as an candidate. You are looking for a job. You must write at least two applications (and as many more as feels useful). You will be assigned one job description that you _must_ apply for and you need to find at least one more yourself in the [job listings.](/jobs).
 
-So you need to find at least one job description, submit your CV and cover letter, and prepare for an interview. As a candidate you have several challenging goals:
+> [!IMPORTANT]
+> You must coordinate your application with someone taking on the role of interviewer, so they can prepare questions based on the job description you apply for.
+
+So you need to read the job description, submit your CV and cover letter, and prepare for an interview. As a candidate you have several challenging goals:
 
 - Preparing your application
 - Finding a way to get your application noticed!
@@ -20,9 +23,9 @@ How do other job seekers do this? Well, they use all kinds of different systems.
 
 ### What You'll Get
 
-- You'll get a job description. You must apply for this job because the interview will be based on this job description.
-- If you contact the "hiring manager", you might also get extra information about the role
-- You will also get a [list of job descriptions](/jobs) that you can choose from for your other applications.
+- You'll get [a job description](jobs/#finsoft-xl-solutions). You must apply for [this job](jobs/#finsoft-xl-solutions) because the interview will be based on this job description.
+- If you contact the "hiring manager", you _might_ also get extra information about the role
+- You will also get a [list of job descriptions](/jobs) that you can choose from for your other applications after you have applied for the first job.
 
 ### What You'll Make
 
@@ -32,11 +35,11 @@ How do other job seekers do this? Well, they use all kinds of different systems.
 ## 🧪 Activities
 
 {{<note type="activity" title="1. Applying">}}
-Review the provided job description and write your CV and cover letter in order to apply:
+Review the [provided job description](jobs/#finsoft-xl-solutions) and write your CV and cover letter in order to apply:
 
 - Use everything you have learned to tailor your CV and cover letter.
 - Make sure you show how you meet at least 60% of the job criteria.
-- _Please anonymise your application_: use a random fake name and contact details. Do not put your own phone number or email address on your application, though you should use your experience and education as you would on LinkedIn. This is to protect your privacy.
+- _Please anonymise your application_: use a random fake name and contact details. Do not put a phone number or email address on your application. This is to protect your privacy.
 - Please submit your applications by pull request to this website using the detailed instructions below.
 
 {{</note>}}
@@ -54,7 +57,7 @@ Review the provided job description and write your CV and cover letter in order 
 
 {{<note type="activity" title="3. Interviewing">}}
 
-You need some classmates to act as interviewers to complete this candidate project. (You will also need to take on the role of interviewer to complete the whole Roles project.) You can do this in class after the workshop or arrange it during the week.
+You need some classmates to act as interviewers to complete this candidate project. You can do this in class after the workshop or arrange it during the week.
 
 - Open a Google Meet or sit down with your interviewer
 - Conduct your interview.
@@ -66,7 +69,7 @@ You need some classmates to act as interviewers to complete this candidate proje
 
 After your interview, consider and write down in your notebook:
 
-1. What questions did they ask that suprised you?
+1. What questions did they ask that surprised you?
 2. Could you have prepared better?
 3. What will you do differently next time?
 4. If you used AI to prepare, did it help?

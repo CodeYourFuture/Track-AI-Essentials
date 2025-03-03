@@ -8,7 +8,7 @@
 
   <div slot="blocks">
     {{ with .Content }}
-    <section class="l-page__main c-block c-copy">{{ . }}</section>
+    <section class="c-block c-block--local c-copy">{{ . }}</section>
     {{ end }} {{ $currentDir := .File.Dir }} {{ with .Site.GetPage $currentDir
     }} {{ range .Pages }} {{ $resources := .Resources }} {{ $applications :=
     $resources.Match "applications/*/*.md" }}
