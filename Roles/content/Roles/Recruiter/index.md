@@ -6,10 +6,10 @@ time=240
 
 +++
 
-In this role, you're going to act as a recruiter. You have just a few hours to find the best 8 candidates to put forward for 1 job. You have piles and piles of possible candidates, so you cannot read them all. But as a recruiter you make your money when a candidate _you find_ is offered the job. How will you evaluate candidates quickly, efficiently and fairly, whilst:
+In this role, you're going to act as a recruiter. You have just a few hours to find the best 8 candidates to put forward for 1 job. You have piles and piles of [possible candidates](/profiles), so you cannot read them all. But as a recruiter you make your money when a candidate _you find_ is offered the job. How will you evaluate candidates quickly, efficiently and fairly, whilst:
 
-1. Finding strong candidates the hiring manager wants to interview?
-1. Finding the candidate the interviewer wants to hire!
+1. Finding strong candidates the [hiring manager](/roles#hiring-manager) wants to interview?
+1. Finding the [candidate](/roles#candidate) the [interviewer](/roles#interviewer) wants to hire!
 
 How do recruiters do this? Well, they use all kinds of technology, professional experience, and existing APIs. But what will you do?
 
@@ -19,8 +19,8 @@ How do recruiters do this? Well, they use all kinds of technology, professional 
 
 You'll get this mini website, right here, filled with made up jobs and people. It has lists of:
 
-- Job descriptions for entry level jobs in tech
-- Candidate profiles, with attached CVs and cover letters for jobs they have applied for
+- [Job descriptions](/jobs) for entry level jobs in tech
+- [Candidate profiles](/profiles)
 
 Choose one of the job descriptions to work on first.
 
@@ -109,6 +109,8 @@ After each screening session, consider:
 5. If you used AI, did it help?
 
 Write down your answers in your notebook.
+
+Please also open a PR and contribute your pitchdeck to this project. Add your pitchdeck to the Job, eg in Jobs/Company-Name/Pitchdeck/your-pitchdeck.
 
 > [!TIP]
 > This project is a living project and it belongs to you. It will run at least 12 times over the next two years and it should evolve as AI evolves. To improve this project, please open a ticket and/or submit a pull request to this website with your changes.

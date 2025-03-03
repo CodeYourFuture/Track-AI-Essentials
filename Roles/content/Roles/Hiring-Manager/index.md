@@ -19,9 +19,9 @@ There's another thing hiring managers worry about a lot. Sometimes even more tha
 
 You'll get this mini website, right here, filled with made up jobs and people. It has lists of:
 
-- Job descriptions for entry level jobs in tech
-- Candidate profiles, with attached CVs and cover letters for jobs they have applied for
-- At least one pitchdeck from a recruiter with their preselected candidates (and maybe more)
+- [Job descriptions](/jobs) for entry level jobs in tech, some with attached applications from candidates
+- [Candidate profiles](/profiles) from which you can find more candidates
+- You may also get a [pitchdeck (example)](/roles/recruiter/pitchdeck.pdf) from a recruiter with their preselected candidates, depending on what the recruiter role produces.
 
 Choose one of the job descriptions to work on first.
 

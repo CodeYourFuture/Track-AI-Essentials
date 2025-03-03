@@ -6,12 +6,12 @@ time=180
 
 +++
 
-In this role, you're going to act as an candidate. You are looking for a job. You must write at least two applications (and as many more as feels useful). You will be assigned one job description that you _must_ apply for and you need to find at least one more yourself in the [job listings.](/jobs).
+In this role, you're going to act as an candidate. You are looking for a job. You must write at least two applications. You will be assigned one job description that you _must_ apply for. You need to find at least one more yourself in the [job listings.](/jobs).
 
 > [!IMPORTANT]
-> You must coordinate your application with someone taking on the role of interviewer, so they can prepare questions based on the job description you apply for.
+> You must coordinate one application with an [interviewer](/roles#interviewer). This is so they can prepare interview questions for the job you apply for.
 
-So you need to read the job description, submit your CV and cover letter, and prepare for an interview. As a candidate you have several challenging goals:
+So you need to read the job descriptions, submit your CV and cover letter, and prepare for an interview. As a candidate you have several challenging goals:
 
 - Preparing your application
 - Finding a way to get your application noticed!
@@ -23,9 +23,9 @@ How do other job seekers do this? Well, they use all kinds of different systems.
 
 ### What You'll Get
 
-- You'll get [a job description](jobs/#finsoft-xl-solutions). You must apply for [this job](jobs/#finsoft-xl-solutions) because the interview will be based on this job description.
+- You'll get [a job description](jobs/#finsoft-xl-solutions). You must apply for [this job](jobs/#finsoft-xl-solutions) first because the interview will be based on this job description.
 - If you contact the "hiring manager", you _might_ also get extra information about the role
-- You will also get a [list of job descriptions](/jobs) that you can choose from for your other applications after you have applied for the first job.
+- You will also get a [list of job descriptions](/jobs) that you can choose from for your subsequent applications.
 
 ### What You'll Make
 
@@ -50,7 +50,7 @@ Review the [provided job description](jobs/#finsoft-xl-solutions) and write your
 1. Make a new branch from main called applicant/fake-name (e.g. applicant/john-smith)
 1. Duplicate the folder Template-Application/Template-Candidate.
 1. Rename Template-Candidate to your _fake_ name. If you can't think of anything use John Smith.
-1. Complete the CV and Cover Letter in the folder and place in the folder of the job (Jobs/Company-Name) you are applying for.
+1. Complete the CV and Cover Letter in the folder and place in the folder of the job (Jobs/Company-Name/Applications/) you are applying for.
 1. Submit your application by creating a pull request to this website.
 
 {{</note>}}
