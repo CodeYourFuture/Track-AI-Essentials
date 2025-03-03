@@ -1,6 +1,6 @@
-# JOB APPLICATION TEMPLATE OR SAMPLE OPTIONAL
-
-## CV/RESUME SECTION
++++
+title= "Sample CV"
++++
 
 ### Personal Information
 

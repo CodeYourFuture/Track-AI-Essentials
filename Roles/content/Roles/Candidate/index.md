@@ -45,9 +45,9 @@ Review the provided job description and write your CV and cover letter in order 
 
 1. Fork [this repo](https://github.com/CodeYourFuture/Track-AI-Essentials) to your own GitHub
 1. Make a new branch from main called applicant/fake-name (e.g. applicant/john-smith)
-1. Duplicate the folder Candidate/Template-Candidate.
+1. Duplicate the folder Template-Application/Template-Candidate.
 1. Rename Template-Candidate to your _fake_ name. If you can't think of anything use John Smith.
-1. Complete the CV and Cover Letter in the folder.
+1. Complete the CV and Cover Letter in the folder and place in the folder of the job (Jobs/Company-Name) you are applying for.
 1. Submit your application by creating a pull request to this website.
 
 {{</note>}}
@@ -73,4 +73,7 @@ After your interview, consider and write down in your notebook:
 
 ## 📥 Submitting Your Work
 
-Your work is complete when you have submitted your application and completed your interview. You can reflect on your experience in your notebook.
+Your work is complete when you have submitted your application and completed your interview.
+
+> [!TIP]
+> This project is a living project and it belongs to you. It will run at least 12 times over the next two years and it should evolve as AI evolves. To improve this project, please open a ticket and/or submit a pull request to this website with your changes.

@@ -1,4 +1,6 @@
-## COVER LETTER SECTION
++++
+title= "Sample cover letter"
++++
 
 [Today's Date]
 
